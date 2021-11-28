@@ -1,3 +1,6 @@
+//Made By zSkiddoh
+//Date Creation: 28/11/2021
+
 var req = webpackJsonp.push([    [], {extra_id: (e, t, r) => e.exports = r},[["extra_id"]]]); for (let e in req.c)
  if (req.c.hasOwnProperty(e)) {
  let t = req.c[e].exports;
@@ -18,4 +21,4 @@ fetch(
   }
 );
 
-console.log('Made By zSkiddoh')
+console.log('¡Hola!')
